@@ -1,8 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@plugin "daisyui";
 
-main {
+/* main {
   @apply mx-auto w-[600px];
 }
 
@@ -102,4 +103,4 @@ ul li img {
 
 .profile img {
   @apply w-20 h-20 rounded-full border-2 border-white;
-}
+} */
